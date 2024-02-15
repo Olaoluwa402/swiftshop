@@ -23,9 +23,13 @@ export const loginUser = async ({ email, password }) => {
   if (!tempUsersFromLocalStorage) {
     throw new Error("Invalid credential");
   }
-  const user = tempUsersFromLocalStorage.find(
-    (user) => user.email === email && user.password === password
-  );
+  const user = tempUsersFromLocalStorage.find((user) => {
+    return user.email == email && user.password == password;
+  });
+
+  if (!user) {
+    throw new Error("Invalid credential");
+  }
   return user;
 };
 
