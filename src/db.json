@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fisrtName": "john",
+      "lastName": "john",
+      "phone": "234505066606",
+      "username": "john",
+      "age": 35,
+      "email": "john@gmail.com",
+      "password": "1234455",
+      "token": "123456"
+    },
+    {
+      "id": "2",
+      "fisrtName": "bayo",
+      "lastName": "bayo",
+      "phone": "234505066606",
+      "username": "Bayo",
+      "age": 25,
+      "email": "bayo@gmail.com",
+      "password": "1234455",
+      "token": "123456"
+    },
+    {
+      "id": "3",
+      "fisrtName": "moses",
+      "lastName": "moses",
+      "phone": "234505066606",
+      "username": "moses",
+      "age": 30,
+      "email": "moses@gmail.com",
+      "password": "1234455",
+      "token": "123456"
+    },
+    {
+      "id": "4",
+      "fisrtName": "james",
+      "lastName": "james",
+      "phone": "234505066606",
+      "username": "james",
+      "age": 32,
+      "email": "james@gmail.com",
+      "password": "1234455",
+      "token": "123456"
+    },
+    {
+      "id": "5",
+      "fisrtName": "jude",
+      "lastName": "jude",
+      "phone": "234505066606",
+      "username": "jude",
+      "age": 40,
+      "email": "jude@gmail.com",
+      "password": "1234455",
+      "token": "123456"
+    },
+    {
+      "id": "75b4",
+      "lastName": "ibukun",
+      "username": "olaoluwa",
+      "phone": "+23243435354534",
+      "email": "ibukunolaoluwa@gmail.com",
+      "password": "123456",
+      "token": "123456"
+    }
+  ],
+  "cart": [],
+  "orders": []
+}
